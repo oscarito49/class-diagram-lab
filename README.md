@@ -23,11 +23,15 @@
 2. [JoeStark37](https://github.com/JoeStark37/class-diagram-lab) implementará
     - Book
     - Author
+    - Language
+    - Format
 3. [oscarito49](https://github.com/oscarito49/class-diagram-lab)
     - BookItem
     - Account
     - Library
+    - AccountState
 4. [El pitudo](https://github.com/Laboratorios-Gigabyte/class-diagram-lab?organization=Laboratorios-Gigabyte&organization=Laboratorios-Gigabyte)
     - Patron
     - Librarian
-5. Toda la Banda, implementar el sistema de b
+    - Library
+5. Toda la Banda, implementar el sistema de búsqueda
