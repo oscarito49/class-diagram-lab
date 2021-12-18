@@ -20,3 +20,14 @@
 
 1. Generar el codigo fuente a partir del siguiente diagrama de clases, en esta ocasión los tres colabolaremos para generar todo el modelo de clases.
 ![Library system](/images/diagrama-clase-02.png "Diagrama de clase biblioteca")
+2. [JoeStark37](https://github.com/JoeStark37/class-diagram-lab) implementará
+    - Book
+    - Author
+3. [oscarito49](https://github.com/oscarito49/class-diagram-lab)
+    - BookItem
+    - Account
+    - Library
+4. [El pitudo](https://github.com/Laboratorios-Gigabyte/class-diagram-lab?organization=Laboratorios-Gigabyte&organization=Laboratorios-Gigabyte)
+    - Patron
+    - Librarian
+5. Toda la Banda, implementar el sistema de b
