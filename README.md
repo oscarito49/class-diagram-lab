@@ -34,4 +34,4 @@
     - Patron
     - Librarian
     - Library
-5. Toda la Banda, implementar el sistema de búsqueda
+5. Toda la Banda, implementar el sistema de búsqueda del sistema para biblioteca
